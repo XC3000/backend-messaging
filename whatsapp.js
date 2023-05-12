@@ -1,4 +1,4 @@
-// cod for sending msg to verified no.s
+// code for sending msg to verified no.s
 
 const accountSid = "ACec38368789ef94cb321246badf2642ab"; 
 const authToken = "8fad90fa07dc95abcfcabf3cc7283562";   // modified for security
